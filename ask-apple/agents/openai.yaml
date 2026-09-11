@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ask Apple"
+  short_description: "Ask Apple Developer with AI-backed search"
+  default_prompt: "Use $ask-apple to ask Apple Developer a question and return the AI answer, quick results, and mixed search results."
+  icon_small: "./assets/ask-apple.png"
+  icon_large: "./assets/ask-apple.png"
